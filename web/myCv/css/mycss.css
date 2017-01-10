@@ -1,0 +1,9 @@
+.background{ 
+	background-color: rgba(0, 0, 0, 0.5);
+	border-radius: 10px;
+	padding-bottom: 0.5em;
+	
+}
+header-content-inner >.txt{
+	text-align:left;
+}
