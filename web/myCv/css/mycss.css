@@ -4,3 +4,16 @@
 	padding-bottom: 0.5em;
 
 }
+#diplomes{
+	border: 1px;
+}
+#diplomes > .row > p{
+	color:white;
+}
+footer{
+	background-color: #732646;
+	color:white;
+}
+#competence > .btn-default{
+	color: #732646;
+}
